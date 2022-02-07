@@ -1,6 +1,11 @@
 # Hutubill
 Basing on Swing and JDBC devloping a desktop application which can record the monthly bill and analysis.
 
+The Project can allow user enter their monthly spending limit, add category, delete unused category. Calculating the monthly spending, connect it with mysql 
+database.
+
+
+
 ![1644210386(1)](https://user-images.githubusercontent.com/35966970/152727605-0d1bbeec-4db4-42b5-9723-fee6daed73e9.png)
 
 
